@@ -1,6 +1,6 @@
 # Arrest Prediction
 
-### This project is based on the prediction model that predicts whether the person gets arrested or not based on the violation dataset.
+This project is based on the prediction model that predicts whether the person gets arrested or not based on the violation dataset.
 
 About Dataset:
 This dataset contains around 65k+ traffic-related violation records.
